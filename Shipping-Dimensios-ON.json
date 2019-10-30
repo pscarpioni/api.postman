@@ -1,0 +1,17 @@
+{
+    "session_id": "2",
+    "zipcode": "02127000",
+    "items": [
+      {
+        "sku": "7",
+        "quantity": 1,
+        "price": "226.49",
+            "dimensions": {
+          "width": "0.51",
+          "depth": "1.24",
+          "weight": "18.4",
+          "height": "0.07"
+          }  
+      }
+    ]
+  }
