@@ -67,3 +67,19 @@
       }
   ]
 }
+
+//Não Entrega na Região
+{
+  "messsage":"Delivery Not Available",
+  "Code":"delivery_not_available",
+  "items":[
+    {
+      "sku":"123123123",
+      "available_quantity":"2"
+    }
+  ]
+}
+
+
+
+
