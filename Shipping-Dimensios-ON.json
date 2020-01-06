@@ -55,7 +55,7 @@
                   "name": "Option Name",
                   "price": 18.0,
                   "delivery_days": 5
-              }
+              },
               {
                 "id": "delivery_option_id",
                 "type": "conventional",
