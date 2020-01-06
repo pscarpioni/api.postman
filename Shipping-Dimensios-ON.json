@@ -80,6 +80,17 @@
   ]
 }
 
+//Item Fora de Estoque  
+{
+  "messsage":"Itens sem Estoque",
+  "Code":"out_of_stock",
+  "items":[
+    {
+      "sku":"123123123",
+      "available_quantity":"0"
+    }
+  ]
+}
 
 
 
